@@ -54,4 +54,6 @@ Enter website to get access to more than 100+ licensed software!
 
 - Submit pull requests with improvements
 
+- Go on and search software that you need!
+
 Share the project with others <3
